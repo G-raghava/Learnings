@@ -1,0 +1,21 @@
+after installing git into your system
+
+https://git-scm.com/download/win  --> standalone Installer
+
+go to the folder where our code is available
+
+1. git init
+
+2. check status -->git status  (all files names display in red color)
+
+3. git add .  (add al files)
+
+
+4. check status --> git status (all files in green color)
+
+5. git commit -m "first commit"
+
+6. git remote add origin https://github.com/G-raghava/HTML-CSS.git
+
+7. git push -u origin master
+
